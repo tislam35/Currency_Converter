@@ -3,7 +3,7 @@ An unreleased currency converter app I created, requires Android Studio to test
 
 ## Initial Screen
 
-![]()
+![](images/initScreen)
 
 ## Possible User Interactions
 
