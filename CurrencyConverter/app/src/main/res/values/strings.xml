@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="please_enter_an_amount">Please enter an amount</string>
+    <string name="your_converted_amount_is">Your converted amount is:</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string-array name="currencies">
+        <item>Canadian Dollar</item>
+        <item>Hong Kong Dollar</item>
+        <item>Icelandic Krona</item>
+        <item>Philippine Peso</item>
+        <item>Danish Krone</item>
+        <item>Hungarian Forint</item>
+        <item>Czech Koruna</item>
+        <item>British Pound</item>
+        <item>Romanian Leu</item>
+        <item>Swedish Krona</item>
+        <item>Indonesian Rupiah</item>
+        <item>Indian Rupee</item>
+        <item>Brazilian Real</item>
+        <item>Russian Ruble</item>
+        <item>Croatian Kuna</item>
+        <item>Japanese Yen</item>
+        <item>Thai Baht</item>
+        <item>Swiss Franc</item>
+        <item>Euro</item>
+        <item>Malaysian Ringgit</item>
+        <item>Bulgarian Lev</item>
+        <item>Turkish Lira</item>
+        <item>Chinese Yuan</item>
+        <item>Norwegian Krone</item>
+        <item>New Zealand Dollar</item>
+        <item>South African Rand</item>
+        <item>United States Dollar</item>
+        <item>Mexican Peso</item>
+        <item>Singapore Dollar</item>
+        <item>Australian Dollar</item>
+        <item>Israeli New Shekel</item>
+        <item>South Korean Won</item>
+        <item>Polish Zloty</item>
+    </string-array>
+</resources>
